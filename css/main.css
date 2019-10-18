@@ -1,0 +1,18 @@
+.centr .container .row {
+  background-color: #aab1b8;
+}
+.centr .container .row h1 {
+  color: white;
+  text-decoration: underline;
+  font-size: 50px;
+  margin: 20px;
+}
+.centr .container .courses img {
+  float: left;
+  margin-right: 30px;
+}
+.centr .container .courses span {
+  color: white;
+  font-size: 20px;
+  line-height: 1.5;
+}
